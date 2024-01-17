@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramin1988
 - 👀 I’m interested in ...coding,programming,web design,gaming development.
-- 🌱 I’m currently learning ...Phyton,Java, Android Dev.
+- 🌱 I’m currently learning ...Phyton,Java, Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
